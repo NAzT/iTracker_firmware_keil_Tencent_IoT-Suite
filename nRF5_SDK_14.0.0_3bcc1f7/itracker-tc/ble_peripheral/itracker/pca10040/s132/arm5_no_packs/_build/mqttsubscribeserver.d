@@ -1,0 +1,11 @@
+.\_build\mqttsubscribeserver.o: ..\..\..\..\..\tc_iot\external\paho.mqtt.embedded-c\MQTTPacket\src\MQTTSubscribeServer.c
+.\_build\mqttsubscribeserver.o: ..\..\..\..\..\tc_iot\external\paho.mqtt.embedded-c\MQTTPacket\src\MQTTPacket.h
+.\_build\mqttsubscribeserver.o: ..\..\..\..\..\tc_iot\external\paho.mqtt.embedded-c\MQTTPacket\src\MQTTConnect.h
+.\_build\mqttsubscribeserver.o: ..\..\..\..\..\tc_iot\external\paho.mqtt.embedded-c\MQTTPacket\src\MQTTPublish.h
+.\_build\mqttsubscribeserver.o: ..\..\..\..\..\tc_iot\external\paho.mqtt.embedded-c\MQTTPacket\src\MQTTSubscribe.h
+.\_build\mqttsubscribeserver.o: ..\..\..\..\..\tc_iot\external\paho.mqtt.embedded-c\MQTTPacket\src\MQTTUnsubscribe.h
+.\_build\mqttsubscribeserver.o: ..\..\..\..\..\tc_iot\external\paho.mqtt.embedded-c\MQTTPacket\src\MQTTFormat.h
+.\_build\mqttsubscribeserver.o: ..\..\..\..\..\tc_iot\external\paho.mqtt.embedded-c\MQTTPacket\src\StackTrace.h
+.\_build\mqttsubscribeserver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\_build\mqttsubscribeserver.o: ..\..\..\..\..\tc_iot\external\paho.mqtt.embedded-c\MQTTPacket\src\MQTTPacket.h
+.\_build\mqttsubscribeserver.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
